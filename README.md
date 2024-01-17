@@ -44,10 +44,6 @@ I am practicing the edge deployment and optimization of Yolov8, such as techniqu
   <img src="https://profile-counter.glitch.me/MerKAi/count.svg" />
 </p>
 
-## 🔥GitHub Performance
-
-<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=MerKAi&show_icons=true&hide_border=true&count_private=true" />
-
 ## 🧰 Skills
 
 #### Languages
@@ -77,4 +73,6 @@ I am practicing the edge deployment and optimization of Yolov8, such as techniqu
   <a title="Raspberry Pi" href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a> 
 </p>
 
+## 🔥GitHub Performance
 
+<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=MerKAi&show_icons=true&hide_border=true&count_private=true" />
