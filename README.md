@@ -19,6 +19,16 @@
     </p>
   </a>
   </p>
+  
+<p align="center"> 
+<a href="https://github.com/MercKAi"> 
+    <img src="https://komarev.com/ghpvc/?username=MercKAi&color=blue" height="25px" alt="github follow" /> 
+</a>
+<a href="https://github.com/MercKAi?tab=followers"> 
+    <img src="https://img.shields.io/github/followers/MercKAi?label=Followers&style=plastic" height="25px" alt="github follow" /> </a>
+</p> 
+
+
 
 ### Hi there 👋
 
@@ -33,6 +43,10 @@ I am practicing the edge deployment and optimization of Yolov8, such as techniqu
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MerKAi/count.svg" />
 </p>
+
+## 🔥GitHub Performance
+
+<img style="width: 50%" align="medium" src="https://github-readme-stats.vercel.app/api?username=MerKAi&show_icons=true&hide_border=true&count_private=true" />
 
 ## 🧰 Skills
 
@@ -62,4 +76,5 @@ I am practicing the edge deployment and optimization of Yolov8, such as techniqu
   <a title="Linux" href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
   <a title="Raspberry Pi" href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a> 
 </p>
+
 
