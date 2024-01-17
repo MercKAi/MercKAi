@@ -10,6 +10,7 @@
   <a title="Korean" href="./README.kr.md"><kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/kr.svg"></kbd></a> 
   <br/>
   <br/>
+</div>
   <p align="left">
   <a href="https://github.com/MercKAi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&multiline=true&random=false&width=500&height=80&lines=Liu+Chenyue+%7C+CUGB;Rookie+AI+Engineer+%7C+CV;DeepLearning+Model+Deploying+%7C+Training" alt="Typing SVG" />  
@@ -18,11 +19,6 @@
     </p>
   </a>
   </p>
-</div>
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MerKAi/count.svg" />
-</p>
 
 ### Hi there 👋
 
@@ -33,7 +29,12 @@ This is MercKai😄，based in Beijing, China.
 
 I am practicing the edge deployment and optimization of Yolov8, such as techniques like pruning and distillation✊✊✊.
 
-### 🧰 Skills
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MerKAi/count.svg" />
+</p>
+
+## 🧰 Skills
 
 #### Languages
 
