@@ -13,7 +13,7 @@
 </div>
   <p align="left">
   <a href="https://github.com/MercKAi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&multiline=true&random=false&width=500&height=80&lines=Liu+Chenyue+%7C+CUGB;Rookie+AI+Engineer+%7C+CV;DeepLearning+Model+Deploying+%7C+Training" alt="Typing SVG" />  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&multiline=true&random=false&width=500&height=80&lines=刘晨越+%7C+CUGB;AI+工程师（Rookie）+%7C+CV;深度学习模型+部署+推理+%7C+训练" alt="Typing SVG" />  
     <p align="center">
     <img src="https://github.com/MercKAi/MercKAi/blob/main/img/merkai.png" width="600" height="300">
     </p>
