@@ -30,12 +30,12 @@
 
 
 
-### Hi there 👋
+### 大家好！！ 👋
 
-This is MercKai😄，based in Beijing, China. 
-- 📍 Born in ShanDong ❤.
-- 📚 Electronics and Information graduate student at 🏫 China University of Geosciences, Beijing.
-- 💡 Rookie in Open source. 
+我是MercKai😄，目前所在城市是中国北京. 
+- 📍 俺出生于山东 ❤.
+- 📚 是中国地质大学(北京)的一名电子信息硕士 🏫 
+- 💡 纯纯的开源新手. 
 
 I am practicing the edge deployment and optimization of Yolov8, such as techniques like pruning and distillation✊✊✊.
 
