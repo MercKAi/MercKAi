@@ -59,7 +59,7 @@ I am practicing the edge deployment and optimization of Yolov8, such as techniqu
 
 <p align="left"> 
   <a title="PyTorch" href="https://pytorch.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a> 
-  <a title="VSCode" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a>
+  <a title="VSCode" href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/Aikoyori/ProgrammingVTuberLogos/blob/main/VSCode/VSCode.png" alt="VSCode" width="60" height="40"/></a>
   <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a> 
   <a title="OpenCV" href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="40" height="40"/></a> 
   <a title="JetbrainsToolBox" href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="PyCharm" width="40" height="40"/></a>
